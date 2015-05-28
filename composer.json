@@ -1,0 +1,17 @@
+{
+    "name": "taxjar/salestaxautomation",
+    "description": "TaxJar for Magento allows you to install rates for multiple origin or destination-based states without affecting your store's checkout experience.",
+    "type": "magento-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TaxJar",
+            "email": "support@taxjar.com"
+        }
+    ],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": { "package-xml": "package.xml" }
+}
+
